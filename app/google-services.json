@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "435139055676",
+    "firebase_url": "https://htvchallengetruck.firebaseio.com",
+    "project_id": "htvchallengetruck",
+    "storage_bucket": "htvchallengetruck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435139055676:android:ec1ffa0355661bc6",
+        "android_client_info": {
+          "package_name": "frost.com.htvchallengetruck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435139055676-95vdgivnc3vvm43nt229nq0ikclbu5e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0C4zZ76v6gl6PEEHIrNiQuRRtWnlJmkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
